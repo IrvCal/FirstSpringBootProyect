@@ -1,0 +1,9 @@
+Json Usuario
+
+{
+    "name":"Irving",
+    "surname":"Calderon",
+    "email":"irving@mail.com",
+    "enabled":false
+
+}
